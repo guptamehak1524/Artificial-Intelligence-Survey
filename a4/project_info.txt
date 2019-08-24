@@ -1,0 +1,14 @@
+ASSIGNMENT 5 DETAILS
+
+1. TEAM
+   Mehak Gupta
+
+2. PROJECT
+   Connect 4 or Reversi
+
+3. PROGRAMMING LANGUAGE
+   JAVA
+
+   LIBRARIES
+   JAVA STANDARD LIBRARIES 
+   (https://docs.oracle.com/javase/8/docs/api/index.html)
